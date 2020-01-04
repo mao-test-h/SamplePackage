@@ -1,9 +1,9 @@
 {
-    "name": "com.mao.sample-package",
-    "displayName": "Sample Package",
-    "version": "0.0.1",
+    "name": "com.mao.large-code-sample",
+    "displayName": "Large code sample",
+    "version": "0.0.2",
     "unity": "2018.4",
-    "description": "Sample",
+    "description": "For compile time investigation",
     "dependencies": {
     }
 }
